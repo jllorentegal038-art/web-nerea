@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flamenco | Arte y Tradición de Andalucía</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <nav>
+        <h2>FLAMENCO</h2>
+
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#historia">Historia</a></li>
+            <li><a href="#palos">Palos</a></li>
+            <li><a href="#figuras">Figuras</a></li>
+            <li><a href="#patrimonio">Patrimonio</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+<main>
+
+<section id="inicio" class="hero">
+    <div class="hero-text">
+        <h1>Flamenco</h1>
+
+        <p>
+            Arte, pasión y tradición nacidos en Andalucía y reconocidos
+            en todo el mundo.
+        </p>
+
+        <a href="#historia" class="boton">Descubrir el flamenco</a>
+    </div>
+</section>
+
+
+<section id="historia" class="seccion">
+    <h2>¿Qué es el flamenco?</h2>
+
+    <div class="contenido-doble">
+
+        <div>
+            <p>
+                El flamenco es una expresión artística que combina música,
+                canto y danza. Sus tres elementos principales son el
+                <strong>cante, el baile y el toque</strong>.
+            </p>
+
+            <p>
+                Su origen está estrechamente relacionado con Andalucía y
+                con diferentes culturas y tradiciones que fueron influyendo
+                en su evolución a lo largo de los siglos.
+            </p>
+
+            <p>
+                Actualmente, el flamenco es una manifestación artística
+                internacional que se puede disfrutar en teatros, festivales,
+                peñas y tablaos.
+            </p>
+        </div>
+
+        <img src="https://www.grangalaflamenco.com/wp-content/uploads/2022/11/baile-flamenco.jpg" alt="Bailaora de flamenco">
+    </div>
+</section>
+
+
+<section id="elementos" class="seccion fondo">
+
+    <h2>Los tres pilares del flamenco</h2>
+
+    <div class="tarjetas">
+
+        <article class="card">
+            <img src="cante.jpg" alt="Cante flamenco">
+
+            <h3>🎤 Cante</h3>
+
+            <p>
+                Es la parte vocal del flamenco. A través de la voz se
+                expresan sentimientos como la alegría, la tristeza,
+                el amor o la soledad.
+            </p>
+        </article>
+
+
+        <article class="card">
+            <img src="baile.jpg" alt="Baile flamenco">
+
+            <h3>💃 Baile</h3>
+
+            <p>
+                El baile utiliza movimientos del cuerpo, los brazos,
+                las manos y el famoso taconeo para transmitir emociones
+                y acompañar la música.
+            </p>
+        </article>
+
+
+        <article class="card">
+            <img src="guitarra.jpg" alt="Guitarra flamenca">
+
+            <h3>🎸 Toque</h3>
+
+            <p>
+                La guitarra flamenca tiene un papel fundamental.
+                Puede acompañar al cante y también convertirse en
+                protagonista mediante composiciones instrumentales.
+            </p>
+        </article>
+
+    </div>
+</section>
+
+
+<section id="palos" class="seccion">
+
+    <h2>Algunos palos flamencos</h2>
+
+    <p class="centrado">
+        El flamenco está formado por numerosos estilos o palos,
+        cada uno con características musicales y emocionales diferentes.
+    </p>
+
+    <div class="tarjetas">
+
+        <article class="card simple">
+            <h3>La Soleá</h3>
+            <p>
+                Uno de los estilos más importantes del flamenco,
+                caracterizado generalmente por un carácter profundo
+                y solemne.
+            </p>
+        </article>
+
+        <article class="card simple">
+            <h3>La Seguiriya</h3>
+            <p>
+                Es uno de los palos considerados más profundos y
+                dramáticos dentro del flamenco.
+            </p>
+        </article>
+
+        <article class="card simple">
+            <h3>El Fandango</h3>
+            <p>
+                Familia de estilos muy extendida, con numerosas
+                variantes regionales.
+            </p>
+        </article>
+
+        <article class="card simple">
+            <h3>Las Sevillanas</h3>
+            <p>
+                Baile y canción de gran popularidad, especialmente
+                relacionado con Andalucía y sus fiestas.
+            </p>
+        </article>
+
+    </div>
+</section>
+
+
+<section id="figuras" class="seccion fondo">
+
+    <h2>Grandes figuras del flamenco</h2>
+
+    <div class="tarjetas">
+
+        <article class="card">
+            <img src="camaron.jpg" alt="Camarón de la Isla">
+
+            <h3>Camarón de la Isla</h3>
+
+            <p>
+                Una de las figuras más influyentes del flamenco
+                contemporáneo. Su colaboración con Paco de Lucía
+                marcó una época.
+            </p>
+        </article>
+
+
+        <article class="card">
+            <img src="pacodelucia.jpg" alt="Paco de Lucía">
+
+            <h3>Paco de Lucía</h3>
+
+            <p>
+                Guitarrista fundamental para la evolución y difusión
+                internacional de la guitarra flamenca.
+            </p>
+        </article>
+
+
+        <article class="card">
+            <img src="carmenamaya.jpg" alt="Carmen Amaya">
+
+            <h3>Carmen Amaya</h3>
+
+            <p>
+                Una de las grandes figuras de la historia del baile
+                flamenco y una artista reconocida internacionalmente.
+            </p>
+        </article>
+
+    </div>
+</section>
+
+
+<section id="patrimonio" class="seccion patrimonio">
+
+    <h2>Patrimonio de la Humanidad</h2>
+
+    <div class="contenido-doble">
+
+        <img src="unesco-flamenco.jpg" alt="Flamenco">
+
+        <div>
+
+            <p>
+                El flamenco fue incluido en la
+                <strong>Lista Representativa del Patrimonio Cultural
+                Inmaterial de la Humanidad de la UNESCO en 2010</strong>.
+            </p>
+
+            <p>
+                Este reconocimiento refleja la importancia cultural
+                del flamenco y su transmisión entre generaciones.
+            </p>
+
+            <a class="boton" 
+               href="https://ich.unesco.org/es/RL/el-flamenco-00363"
+               target="_blank">
+               Ver el flamenco en la UNESCO
+            </a>
+
+        </div>
+
+    </div>
+</section>
+
+
+<section class="seccion enlaces">
+
+    <h2>Descubre más sobre el flamenco</h2>
+
+    <div class="tarjetas">
+
+        <article class="card simple">
+            <h3>Instituto Andaluz del Flamenco</h3>
+
+            <p>
+                Información sobre patrimonio, festivales,
+                peñas y actividades relacionadas con el flamenco.
+            </p>
+
+            <a href="https://www.juntadeandalucia.es/aaiicc/flamenco/"
+               target="_blank">
+               Visitar web
+            </a>
+        </article>
+
+
+        <article class="card simple">
+            <h3>Spain.info</h3>
+
+            <p>
+                Información turística y cultural sobre el flamenco
+                y sus principales manifestaciones.
+            </p>
+
+            <a href="https://www.spain.info/es/descubrir-espana/flamenco-espana/"
+               target="_blank">
+               Descubrir más
+            </a>
+        </article>
+
+
+        <article class="card simple">
+            <h3>UNESCO</h3>
+
+            <p>
+                Consulta la información oficial sobre el flamenco
+                como patrimonio cultural inmaterial.
+            </p>
+
+            <a href="https://ich.unesco.org/es/RL/el-flamenco-00363"
+               target="_blank">
+               Ver información
+            </a>
+        </article>
+
+    </div>
+</section>
+
+
+<section id="contacto" class="seccion contacto">
+
+    <h2>Contacto</h2>
+
+    <p>
+        ¿Quieres compartir tu opinión sobre el flamenco?
+    </p>
+
+    <form>
+
+        <label for="nombre">Nombre</label>
+        <input type="text" id="nombre" name="nombre"
+               placeholder="Tu nombre">
+
+        <label for="email">Correo electrónico</label>
+        <input type="email" id="email" name="email"
+               placeholder="Tu correo">
+
+        <label for="mensaje">Mensaje</label>
+        <textarea id="mensaje" name="mensaje"
+                  placeholder="Escribe tu mensaje"></textarea>
+
+        <button type="submit">Enviar</button>
+
+    </form>
+
+</section>
+
+</main>
+
+
+<footer>
+
+    <p>
+        © 2026 Flamenco | Arte y tradición de Andalucía
+    </p>
+
+    <div class="footer-links">
+        <a href="https://www.juntadeandalucia.es/"
+           target="_blank">Junta de Andalucía</a>
+
+        <a href="https://ich.unesco.org/"
+           target="_blank">UNESCO</a>
+
+        <a href="https://www.spain.info/"
+           target="_blank">Spain.info</a>
+    </div>
+
+</footer>
+
+</body>
+</html>
+/* CONFIGURACIÓN GENERAL */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Trebuchet MS", sans-serif;
+    background-color: #f5f1ec;
+    color: #333;
+    line-height: 1.7;
+}
+
+
+/* NAVEGACIÓN */
+
+nav {
+    width: 100%;
+    padding: 20px 8%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: rgba(0, 0, 0, 0.45);
+}
+
+.logo {
+    color: white;
+    font-family: Georgia, serif;
+    font-size: 27px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+
+    font-family: "Trebuchet MS", sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #d4a017;
+}
+
+
+/* PORTADA */
+
+.hero {
+    min-height: 100vh;
+
+    background-image:
+        linear-gradient(
+            rgba(0, 0, 0, 0.5),
+            rgba(0, 0, 0, 0.5)
+        ),
+        url("flamenco-fondo.jpg");
+
+    background-size: cover;
+    background-position: center;
+
+    color: white;
+}
+
+.hero-content {
+    min-height: 80vh;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+
+    padding: 30px;
+}
+
+.hero h1 {
+    font-family: Georgia, serif;
+
+    font-size: 58px;
+
+    font-weight: bold;
+    font-style: italic;
+
+    letter-spacing: 1px;
+
+    max-width: 900px;
+
+    margin-bottom: 20px;
+
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6);
+}
+
+.hero p {
+    font-size: 20px;
+
+    max-width: 750px;
+
+    margin-bottom: 30px;
+}
+
+.boton {
+    display: inline-block;
+
+    padding: 12px 30px;
+
+    background-color: #a61919;
+
+    color: white;
+
+    text-decoration: none;
+
+    border-radius: 25px;
+
+    font-weight: bold;
+
+    transition: 0.3s;
+}
+
+.boton:hover {
+    background-color: #781111;
+
+    transform: translateY(-2px);
+}
+
+
+/* SECCIONES */
+
+section {
+    padding: 90px 8%;
+}
+
+section h2 {
+    font-family: Georgia, serif;
+
+    text-align: center;
+
+    font-size: 38px;
+
+    font-style: italic;
+
+    margin-bottom: 40px;
+
+    color: #8c1717;
+}
+
+
+/* SOBRE EL FLAMENCO */
+
+.sobre {
+    display: grid;
+
+    grid-template-columns: 1fr 1fr;
+
+    gap: 50px;
+
+    align-items: center;
+
+    background-color: white;
+}
+
+.sobre .texto h2 {
+    text-align: left;
+
+    margin-bottom: 25px;
+}
+
+.sobre p {
+    margin-bottom: 20px;
+
+    font-size: 17px;
+}
+
+.imagen img {
+    width: 100%;
+
+    display: block;
+
+    border-radius: 15px;
+}
+
+
+/* ELEMENTOS */
+
+.elementos {
+    background-color: #f5f1ec;
+}
+
+.tarjetas {
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+
+    gap: 30px;
+}
+
+.tarjeta {
+    background-color: white;
+
+    border-radius: 15px;
+
+    overflow: hidden;
+
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+
+    transition: 0.3s;
+}
+
+.tarjeta:hover {
+    transform: translateY(-8px);
+}
+
+.tarjeta img {
+    width: 100%;
+
+    height: 240px;
+
+    object-fit: cover;
+}
+
+.contenido {
+    padding: 25px;
+}
+
+.contenido h3 {
+    font-family: Georgia, serif;
+
+    color: #8c1717;
+
+    font-size: 25px;
+
+    font-style: italic;
+
+    margin-bottom: 12px;
+}
+
+.contenido p {
+    color: #555;
+}
+
+
+/* PALOS */
+
+.palos {
+    background-color: #211d1d;
+
+    color: white;
+}
+
+.palos h2 {
+    color: #d4a017;
+}
+
+.palos-grid {
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+
+    gap: 30px;
+}
+
+.palos-grid div {
+    padding: 30px;
+
+    background-color: #302929;
+
+    border-radius: 12px;
+
+    text-align: center;
+
+    border-top: 4px solid #a61919;
+}
+
+.palos-grid h3 {
+    font-family: Georgia, serif;
+
+    color: #d4a017;
+
+    margin-bottom: 15px;
+
+    font-size: 23px;
+
+    font-style: italic;
+}
+
+.palos-grid p {
+    color: #ddd;
+}
+
+
+/* CONTACTO */
+
+.contacto {
+    background-color: #e9d8c5;
+
+    text-align: center;
+}
+
+.contacto h2 {
+    color: #8c1717;
+}
+
+.contacto > p {
+    margin-bottom: 30px;
+}
+
+form {
+    max-width: 600px;
+
+    margin: 0 auto;
+
+    display: flex;
+
+    flex-direction: column;
+
+    text-align: left;
+}
+
+label {
+    margin-bottom: 7px;
+
+    font-weight: bold;
+
+    color: #5c1717;
+}
+
+input,
+textarea {
+    width: 100%;
+
+    padding: 13px;
+
+    margin-bottom: 20px;
+
+    border: 1px solid #c7a98c;
+
+    border-radius: 7px;
+
+    font-family: "Trebuchet MS", sans-serif;
+
+    font-size: 15px;
+}
+
+input:focus,
+textarea:focus {
+    outline: none;
+
+    border-color: #a61919;
+}
+
+button {
+    padding: 13px;
+
+    border: none;
+
+    border-radius: 25px;
+
+    background-color: #a61919;
+
+    color: white;
+
+    font-family: "Trebuchet MS", sans-serif;
+
+    font-size: 16px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #781111;
+}
+
+
+/* FOOTER */
+
+footer {
+    background-color: #171313;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 30px;
+
+    font-size: 14px;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+
+/* RESPONSIVE */
+
+@media (max-width: 800px) {
+
+    nav {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .hero h1 {
+        font-size: 40px;
+    }
+
+    .sobre {
+        grid-template-columns: 1fr;
+    }
+
+    .tarjetas {
+        grid-template-columns: 1fr;
+    }
+
+    .palos-grid {
+        grid-template-columns: 1fr;
+    }
+
+    section {
+        padding: 60px 6%;
+    }
+}
